@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
+title: Personal Color Diagnosis
+description: Personal Color Diagnostic Model based on Skin Color Using Image Classification
+img: personal_color.jpg
+importance: 2
 category: work
 related_publications: true
 ---
