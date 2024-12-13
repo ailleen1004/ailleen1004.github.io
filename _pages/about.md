@@ -6,7 +6,7 @@ subtitle: <a href='https://www.inha.ac.kr/kr/index.do'>Inha University</a>, B.S.
 
 profile:
   align: right
-  image: prof_pic_gh.jpg
+  image: prof_color_gh.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>100, Inha-ro</p>
