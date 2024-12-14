@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gahyun Kim
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th October 2001
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: B.S.
+      institution: Inha University, Incheon, Republic of Korea
       year: 1905
       description:
         - Description 1.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: ICT 대중교통연구실, Korea Railroad Research Institute (KRRI)
+      year: 2023.09 - 2024.03
       description:
         - Description 1.
         - Description 2.
@@ -73,7 +73,7 @@
   contents:
     - year: 1921
       items:
-        - Nobel Prize in Physics
+        - 정보통신종합설계 최우수설계
         - Matteucci Medal
     - year: 2029
       items:
