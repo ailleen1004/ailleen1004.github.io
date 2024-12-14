@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gahyun Kim",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ailleen1004@gmail.com",
+    "phone": "(010) 9075-8422",
+    "url": "https://ailleen1004.github.io/",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "ICT 대중교통연구실, Korea Railroad Research Institute (KRRI)",
+      "position": "Research Intern",
+      "url": "https://www.krri.re.kr/web/main/index.do",
+      "startDate": "2023-09-01",
+      "endDate": "2024-03-29",
+      "summary": "",
+      "highlights": ["Development of Smart Gate-Free System Software", "Research on Efficient 3D Modeling Approaches for Railway Facilities based on NeRF", "Super Resolution and Deblurring in Fisheye Image", "Development of High-occupancy BRT Passenger Recognition Software"]
     }
   ],
   "volunteer": [
@@ -47,24 +47,23 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Inha University, Incheon, Republic of Korea",
+      "location": "Incheon, Republic of Korea",
+      "url": "https://www.inha.ac.kr/kr/index.do",
+      "area": "Information and Communication Engineering",
+      "studyType": "B.S.",
+      "startDate": "2020-03-02",
+      "endDate": "2024-02-16",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Thesis: Development of Braille Translator Using Deep learning-Based Braille Recognition Model (Advisor: Sungeun Hong)"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "정보통신 종합설계 최우수설계상",
+      "date": "2023-07-03",
+      "awarder": "Inha University",
+      "summary": "In the spring semester of 2023, in the Capstone Design course offered by the Department of Information and Communication Engineering, I designed an excellent project titled "Braille Translator Using a Deep Learning-Based Braille Recognition Model." The project was successfully demonstrated during the final presentation and received an award.'"
     }
   ],
   "certificates": [
@@ -113,25 +112,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Research on Autonomous Bus Passenger Recognition Algorithm",
+      "publisher": "Journal of the Korean Society for Railway",
+      "releaseDate": "2024-11",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11962752&language=ko_KR&hasTopBanner=true",
+      "summary": ""
     }
   ],
   "skills": [
