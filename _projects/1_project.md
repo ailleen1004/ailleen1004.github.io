@@ -2,9 +2,9 @@
 layout: page
 title: Personal Color Diagnosis
 description: Personal Color Diagnostic Model based on Skin Color Using Image Classification
-img: 1.jpg
+img: assets/img/personal_color.jpg
 importance: 2
-category: work
+category: Inha Univ.
 related_publications: true
 ---
 
