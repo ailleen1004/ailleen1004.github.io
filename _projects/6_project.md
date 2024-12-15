@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: AI chatbot service for integrated performing arts information provision
+description: Deploying and Implementing an AI chatbot model based on public data.
+img: 
+importance: 6
+category: Hanium
 ---
 
 Every project has a beautiful feature showcase page.
