@@ -7,7 +7,7 @@ importance: 5
 category: KRRI
 ---
 
-Publication: <a href="https://www.youtube.com/watch?v=iZ9_CQgoa7w">Development of Smart Block-based Contactless Payment System</a>
+Publication: <a href="https://doi.org/10.7782/JKSR.2024.27.1.66">Development of Smart Block-based Contactless Payment System</a>
 - Support robotics software development, making figures, and data analysis
 
 Link: <a href="https://www.youtube.com/watch?v=iZ9_CQgoa7w">Youtube Page</a>
