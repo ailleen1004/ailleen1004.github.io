@@ -8,20 +8,15 @@ category: Inha Univ.
 giscus_comments: true
 ---
 
-Publication: <a href="https://doi.org/10.7782/JKSR.2024.27.11.899">Research on Autonomous Bus Passenger Recognition Algorithm</a>
+Link: 
+<a href="https://github.com/ailleen1004/Braille_Recognition_2023">GitHub Page</a>
+<a href="https://www.youtube.com/shorts/pqM6NC-Q7Zo">Youtube Page 1</a>
+<a href="https://www.youtube.com/shorts/IWUtWdu1-p0">Youtube Page 2</a>
 
-A new clustering method (based on body orientation) for determining the waiting line for a ride was proposed and constructed. 
+This paper proposes a service through a braille translator application that allows capturing braille in real-life scenarios, recognizing the braille within the mage, and providing translation. By expanding the translation scope to include not only individual alphabet images but also word and sentence-level braille images added to the dataset, the translation range is extended up to sentences. To achieve fast and accurate braille recognition, the real-time object detection model YOLOv7 is utilized. To correct errors that may occur during the braille recognition process, the natural language processing model GPT-3 is employed. The ultimate goal is to enhance the accessibility of braille, promote convenience for visually impaired individuals, and facilitate the universal adoption of braille.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brt.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brt2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brt3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/braille.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-Through field tests in high-occupancy bus, several queue determination algorithms were compared and analyzed to prove the excellence of the proposed algorithm method.
