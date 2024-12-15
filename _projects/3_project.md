@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Development of high-occupancy BRT passenger recognition technology
+description: Development of vision-based passenger boarding and alighting completion detection technology
+img: assets/img/brt.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: KRRI
 ---
 
 Every project has a beautiful feature showcase page.
