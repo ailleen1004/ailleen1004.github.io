@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [KRRI, Inha Univ., Hanium, Fun]
+display_categories: [KRRI, Inha Univ., Etc.]
 horizontal: false
 ---
 
