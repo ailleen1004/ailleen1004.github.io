@@ -2,7 +2,7 @@
 layout: page
 title: AI chatbot service for integrated performing arts information provision
 description: Deploying and Implementing an AI chatbot model based on public data.
-img: 
+img: assets/img/chatbot.jpg
 importance: 6
 category: Hanium
 ---
