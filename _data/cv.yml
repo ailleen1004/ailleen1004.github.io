@@ -5,93 +5,148 @@
       value: Gahyun Kim
     - name: Date of Birth
       value: 17th October 2001
+    - name: Email
+      value: ailleen1004@gmail.com
+    - name: phone
+      value: (010) 9075-8422
     - name: Languages
       value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S.
+    - title: B.S. in Information and Communication Engineering
       institution: Inha University, Incheon, Republic of Korea
-      year: 1905
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Development of Braille Translator Using Deep learning-Based Braille Recognition Model
 
-- title: Experience
+- title: Research Interests
+  type: list
+  contents:
+    - Computer Vision and Image Processing
+    - Medical Informatics
+    - Human-Computer Interaction
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "Research on Autonomous Bus Passenger Recognition Algorithm"
+      institution: Journal of the Korean Society for Railway
+      year: 2024.11
+
+- title: Experiences
   type: time_table
   contents:
     - title: Research Intern
-      institution: ICT 대중교통연구실, Korea Railroad Research Institute (KRRI)
+      institution: ICT 대중교통연구실, Korea Railroad Research Institute
       year: 2023.09 - 2024.03
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Development of Smart Gate-Free System Software
+        - Research on Efficient 3D Modeling Approaches for Railway Facilities based on NeRF
+        - Super Resolution and Deblurring in Fisheye Image
+        - Development of High-occupancy BRT Passenger Recognition Software
+        
+    - title: Research Student
+      institution: AI & Media (AIM) Lab., Inha University
+      year: 2023.01 - 2023.07
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Research and Investigation of Video Object Segmentation(VOS) Technology
+        - Building a Braille Recognition Model using Object Detection
+        
+    - title: Student Mentor
+      institution: Incheon Cyber Career Education Center, Incheon
+      year: 2023
       description:
+        - Served as a department guide and career mentor for middle and high school student
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Student Mentor
+      institution: Student Major Mentor Group, Inha University
+      year: 2021 - 2022
+      description:
+        - Served as a department guide and career mentor for high school student
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - 정보통신종합설계 최우수설계
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2024.07
+      title: 정보통신 종합설계 최우수설계상
+      institution: Inha University
+      description: Development of Braille Translator Using Deep learning-Based Braille Recognition Model
 
-- title: Academic Interests
+- title: Projects
+  type: time_table
+  contents:
+    - title: Development of high-occupancy BRT passenger recognition technology
+      institution: Korea Railroad Research Institute
+      year: 2024.01 - 2024.07
+      description: 
+      - Development of vision-based passenger boarding and alighting completion detection technology
+      - Published a paper to JKSR(Journal of the Korean Society for Railway) as the first author
+      
+    - title: Research on Efficient 3D Modeling Approaches for Railway Facilities based on NeRF
+      institution: Korea Railroad Research Institute
+      year: 2023.11 - 2023.12
+      description: 
+      - Investigation of ‘NeRF(Neural Radiance Fields)’ 3D Model Construction Technology
+      - 3D Modeling of Railway Facilities and Comparison of Results Using NeRF-based Modeling Technologies
+      
+    - title: Development of Smart Block-based Contactless Payment System
+      institution: Korea Railroad Research Institute
+      year: 2023.08 - 2023.10
+      description: 
+      - Development of IoT System Using ROS2 and MQ Server for User Position Tracking on Smart Blocks, Smartphone User Matching, Payment, and LED Payment Status Display
+      - Field Experimentation in a Crowded Real-World Environment
+      
+    - title: Development of Braille Translator Using Deep learning-Based Braille Recognition Model
+      institution: Inha University
+      year: 2023.01 - 2023.07
+      description: 
+      - Building a English Braille Image Dataset
+      - Training Object Detection Models
+      - Enhancing Translation Performance Using GPT-3 and Papago API
+      - Development of a Braille Translation App for the Visually Impaired Using Android Studio
+      
+    - title: Predicting Personal Color using Image Classification
+      institution: Inha University
+      year: 2022.09 - 2022.12
+      description: 
+      - Building a Skin Tone Image Dataset
+      - Training Image Classification Models
+
+    - title: Development of AI chatbot service for integrated performing arts information provision
+      institution: Hanium
+      year: 2021.04 - 2021.11
+      description: 
+      - Deploying and Implementing an AI chatbot model based on public data
+      - Register and test chatbot in 'LINE'
+ 
+
+- title: Skills and Techniques
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <u>Primary:</u> Python, PyTorch
+        - <u>Secondary:</u> C, C++
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Object Detection
+        - Video Object Segmentation
+        - Image Classification
+        - NeRF
+        - Pose Estimation
+        - Image Deblurring
+        - Super Resolution
+    - title: Internet of Things (IoT)
+      items:
+        - Robotics Software
+        - MQTT communication
+    - title: Etc.
+      items:
+        - Image processing using OpenCV
+        - Big data analysis using MongoDB and MySQL
+        - Frontend development of applications using Android Studio
+        - Developing AI chatbots using Dialogflow
