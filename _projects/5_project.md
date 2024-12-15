@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Development of Smart Block-based Contactless Payment System
-description: A service through a braille translator application that allows capturing braille in real-life scenarios, recognizing the braille within the image, and providing translation.
+title: Contactless Payment System
+description: Development of IoT System Using ROS2 and MQ Server for User Position Tracking on Smart Blocks, Smartphone User Matching, Payment, and LED Payment Status Display
 img: assets/img/gatefree.jpg
 importance: 5
 category: KRRI
