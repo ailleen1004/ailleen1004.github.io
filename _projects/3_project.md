@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development of high-occupancy BRT passenger recognition technology
+title: High-occupancy BRT passenger recognition technology
 description: Development of vision-based passenger boarding and alighting completion detection technology
 img: assets/img/brt.jpg
 importance: 3
