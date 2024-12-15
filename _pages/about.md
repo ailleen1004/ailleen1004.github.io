@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.inha.ac.kr/kr/index.do'>Inha University</a>, B.S. in Information and Communication Engineering
+subtitle: <a href='https://www.inha.ac.kr/'>Inha University</a>, B.S. in Information and Communication Engineering
 
 profile:
   align: right
