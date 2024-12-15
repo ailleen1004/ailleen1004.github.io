@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Braille Translator
+description: Development of Braille Translator Using Deep learning-Based Braille Recognition Model
+img: assets/img/braille.jpg
+importance: 1
+category: Inha Univ
 giscus_comments: true
 ---
 
