@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Research on Efficient 3D Modeling Approaches for Railway Facilities based on NeRF
+description: 3D Modeling of Railway Facilities and Comparison of Results Using NeRF-based Modeling Technologies
+img: assets/img/nerf.jpg
+importance: 4
+category: KRRI
 ---
 
 Every project has a beautiful feature showcase page.
