@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Development of Smart Block-based Contactless Payment System
+description: A service through a braille translator application that allows capturing braille in real-life scenarios, recognizing the braille within the image, and providing translation.
+img: assets/img/gatefree.jpg
+importance: 5
+category: KRRI
 ---
 
 Every project has a beautiful feature showcase page.
