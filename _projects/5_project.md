@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contactless Payment System
-description: Development of IoT System Using ROS2 and MQ Server for User Position Tracking on Smart Blocks, Smartphone User Matching, Payment, and LED Payment Status Display
+description: Development of IoT System Using ROS2 and MQ Server for User Position Tracking on Smart Blocks
 img: assets/img/gatefree.jpg
 importance: 5
 category: KRRI
