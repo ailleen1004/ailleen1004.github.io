@@ -3,7 +3,6 @@ layout: page
 title: Development of high-occupancy BRT passenger recognition technology
 description: Development of vision-based passenger boarding and alighting completion detection technology
 img: assets/img/brt.jpg
-redirect: https://unsplash.com
 importance: 3
 category: KRRI
 ---
