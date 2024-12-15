@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Efficient 3D Modeling Approaches for Railway Facilities
+title: 3D Modeling for Railway Facilities
 description: 3D Modeling of Railway Facilities and Comparison of Results Using NeRF-based Modeling Technologies
 img: assets/img/nerf.jpg
 importance: 4
