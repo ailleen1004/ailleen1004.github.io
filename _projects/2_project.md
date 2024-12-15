@@ -4,7 +4,7 @@ title: Braille Translator
 description: Development of Braille Translator Using Deep learning-Based Braille Recognition Model
 img: assets/img/braille.jpg
 importance: 1
-category: Inha Univ
+category: Inha Univ.
 giscus_comments: true
 ---
 
