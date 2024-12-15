@@ -8,6 +8,7 @@ category: Inha Univ.
 related_publications: true
 ---
 
+Link: <a href="https://github.com/ailleen1004/Personal_Color_Prediction">GitHub Page</a>
 
 A personal color self-diagnosis model was developed to determine personal colors based primarily on skin tone, which has the greatest influence on personal color classification. The model quantifies the traditionally subjective evaluation of personal color into measurable values for assessment.
 
