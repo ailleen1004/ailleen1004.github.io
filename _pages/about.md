@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 Hello, my name is Gahyun Kim and I graduated with a bachelor's degree in Information and Communication Engineering from Inha University.
 
-My research interests are Computer vision and Image Processing, Medical Informatics, and Human-Computer Interaction(HCI). Feel free to contact me via email for any questions.
+My research interests are Computer vision and Image Processing. Feel free to contact me via email for any questions.
