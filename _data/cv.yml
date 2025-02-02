@@ -24,9 +24,8 @@
 - title: Research Interests
   type: list
   contents:
-    - Computer Vision and Image Processing
-    - Medical Informatics
-    - Human-Computer Interaction
+    - Computer Vision
+    - Image Processing
 
 - title: Publications
   type: time_table
@@ -148,3 +147,11 @@
         - Big data analysis using MongoDB and MySQL
         - Frontend development of applications using Android Studio
         - Developing AI chatbots using Dialogflow
+
+
+- title: Hobby
+  type: list
+  contents:
+    - Kumdo
+    - Running
+    - Knitting
